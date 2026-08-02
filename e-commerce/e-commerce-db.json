@@ -1,31 +1,60 @@
 [
-    {
-        "id": 1,
-        "name": "HP-16 Gaming Laptop",
-        "price": 65000,
-        "inStock": true,
-        "category": "Electronics",
-        "seller": {
-            "name": "Alex",
-            "email": "alexseller@gmail.com",
-            "rating": 4.0
-        },
-        "images" : [
-            {
-                "url": "1/image01.jpg",
-                "width": 200,
-                "height": 400
-            },
-            {
-                "url": "1/image02.jpg",
-                "width": 200,
-                "height": 400
-            },
-            {
-                "url": "1/image03.jpg",
-                "width": 200,
-                "height": 400
-            }
-        ]
-    }
+  {
+    "id": 1,
+    "name": "HP-16 Gaming Laptop",
+    "price": 65000,
+    "inStock": true,
+    "category": "Electronics",
+    "seller": {
+      "name": "Alex",
+      "email": "alexseller@gmail.com",
+      "rating": 4.0
+    },
+    "images": [
+      {
+        "url": "1/image01.jpg",
+        "width": 200,
+        "height": 400
+      },
+      {
+        "url": "1/image02.jpg",
+        "width": 200,
+        "height": 400
+      },
+      {
+        "url": "1/image03.jpg",
+        "width": 200,
+        "height": 400
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "VIVO 5G Mobile",
+    "price": 25000,
+    "inStock": true,
+    "category": "Electronics",
+    "seller": {
+      "name": "George",
+      "email": "georgeseller@gmail.com",
+      "rating": 4.5
+    },
+    "images": [
+      {
+        "url": "2/image01.jpg",
+        "width": 200,
+        "height": 400
+      },
+      {
+        "url": "2/image02.jpg",
+        "width": 200,
+        "height": 400
+      },
+      {
+        "url": "2/image03.jpg",
+        "width": 200,
+        "height": 400
+      }
+    ]
+  }
 ]
