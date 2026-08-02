@@ -5,11 +5,33 @@
         "age": 24,
         "completed": false,
         "address": {
-            "street" : "Chepak",
+            "street": "Chepak",
             "city": "Chennai",
             "state": "Tamil Nadu",
             "pinCode": 636001
-        }
+        },
+        "courses": [
+            {
+                "courseName": "Front-End Development",
+                "duration": 2,
+                "completed": true,
+                "instructor": {
+                    "name": "James",
+                    "experience": 5,
+                    "email": "james@gmail.com"
+                }
+            },
+            {
+                "courseName": "Java Back-End Development",
+                "duration": 4,
+                "completed": false,
+                "instructor": {
+                    "name": "Alex",
+                    "experience": 6,
+                    "email": "alex@gmail.com"
+                }
+            }
+        ]
     },
     {
         "id": 2,
@@ -17,10 +39,49 @@
         "age": 20,
         "completed": true,
         "address": {
-            "street" : "Marina",
+            "street": "Marina",
             "city": "Chennai",
             "state": "Tamil Nadu",
             "pinCode": 636001
-        }
+        },
+        "courses": [
+            {
+                "courseName": "Front-End Development",
+                "duration": "2",
+                "completed": true,
+                "instructor": {
+                    "name": "George",
+                    "experience": 5,
+                    "email": "george@gmail.com"
+                }
+            },
+            {
+                "courseName": "Python Back-End Development",
+                "duration": "4",
+                "completed": false,
+                "instructor": {
+                    "name": "Martin",
+                    "experience": 8,
+                    "email": "martin@gmail.com"
+                }
+            },
+            {
+                "courseName": "AWS cloud enginer",
+                "duration": "2",
+                "completed": false,
+                "instructor": [
+                    {
+                        "name": "Emma",
+                        "experience": 4,
+                        "email": "emma@gmail.com"
+                    },
+                    {
+                        "name": "Angela",
+                        "experience": 3,
+                        "email": "angela@gmail.com"
+                    }
+                ]
+            }
+        ]
     }
 ]
