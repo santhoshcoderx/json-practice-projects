@@ -3,12 +3,24 @@
         "id": 1,
         "name": "Santhosh",
         "age": 24,
-        "completed": false
+        "completed": false,
+        "address": {
+            "street" : "Chepak",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": 636001
+        }
     },
     {
         "id": 2,
         "name": "Gopi",
         "age": 20,
-        "completed": true
+        "completed": true,
+        "address": {
+            "street" : "Marina",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": 636001
+        }
     }
 ]
