@@ -26,6 +26,18 @@
         "width": 200,
         "height": 400
       }
+    ],
+    "reviews": [
+      {
+        "userName": "Sandy",
+        "rating": 4.0,
+        "comment": "Good product to buy and best quality."
+      },
+      {
+        "userName": "Gopi",
+        "rating": 3.5,
+        "comment": "Best quality in this price range."
+      }
     ]
   },
   {
@@ -54,6 +66,13 @@
         "url": "2/image03.jpg",
         "width": 200,
         "height": 400
+      }
+    ],
+    "reviews": [
+      {
+        "userName": "Martin",
+        "rating": 5.0,
+        "comment": "Best quality mobile and best user experience."
       }
     ]
   }
